@@ -1,3 +1,7 @@
+Victor Van Sivan Alkalay
+
+Coding style: Allman
+
 ###################################
 Tutorial 5 Starter Webapp - Caboose
 ###################################
